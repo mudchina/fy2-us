@@ -1,0 +1,687 @@
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+daemon/class/btshan/ouyangke.c line 4: parse error
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+daemon/class/btshan/ouyangke.c line 4: parse error
+daemon/class/btshan/ouyangke.c line 4: parse error
+daemon/class/btshan/ouyangke.c line 4: parse error
+daemon/class/btshan/ouyangke.c line 4: parse error
+daemon/class/btshan/ouyangke.c line 4: parse error
+daemon/skill/shexing-diaoshou.c line 98: Undefined function NewRandom
+daemon/skill/shexing-diaoshou.c line 97: parse error
+daemon/skill/shexing-diaoshou.c line 97: parse error
+daemon/skill/shexing-diaoshou.c line 97: parse error
+daemon/skill/shexing-diaoshou.c line 97: parse error
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/npc/duanyu.c line 61: Undefined function prepare_skill
+d/city/npc/tang.c line 6: parse error
+d/city2/npc/shisong.c line 55: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yang.c line 5: parse error
+d/npc/xiaofeng.c line 87: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 122: Warning: Return type doesn't match prototype ( void vs int )
+d/city/npc/tang.c line 6: parse error
+d/npc/duanyu.c line 61: Undefined function prepare_skill
+d/city/npc/yang.c line 5: parse error
+d/city/npc/tang.c line 6: parse error
+d/npc/duanyu.c line 61: Undefined function prepare_skill
+d/city/npc/yang.c line 5: parse error
+d/city/npc/tang.c line 6: parse error
+d/npc/duanyu.c line 61: Undefined function prepare_skill
+d/city/npc/yang.c line 5: parse error
+d/city/npc/yang.c line 5: parse error
+d/city/npc/yang.c line 5: parse error
+d/city/npc/yang.c line 5: parse error
+d/city/npc/yang.c line 5: parse error
+feature/dealer.c line 40: Undefined variable 'MONEY_D'
+feature/dealer.c line 80: Undefined variable 'MONEY_D'
+feature/dealer.c line 109: Undefined variable 'MONEY_D'
+feature/dealer.c line 147: Undefined variable 'MONEY_D'
+d/city/npc/yang.c line 24: parse error
+d/city/npc/yang.c line 24: parse error
+d/city/npc/yang.c line 25: parse error
+d/city/npc/yang.c line 24: parse error
+d/city/npc/yang.c line 24: parse error
+d/city/npc/yang.c line 24: parse error
+d/npc/xiaofeng.c line 87: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 122: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 87: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 122: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 87: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 122: Warning: Return type doesn't match prototype ( void vs int )
+d/city/npc/smith.c line 4: parse error
+d/city/npc/smith.c line 5: parse error
+d/city/npc/smith.c line 5: parse error
+d/city/npc/smith.c line 21: parse error
+d/city/npc/huoji.c line 4: parse error
+d/city/npc/ping.c line 4: parse error
+d/city/npc/huoji.c line 4: parse error
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/cheng.c line 37: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/yuhuan.c line 49: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/village/npc/smith.c line 4: parse error
+d/huashan/npc/shidaizi.c line 47: Undefined function prepare_skill
+d/huashan/npc/shidaizi.c line 47: Undefined function prepare_skill
+d/huashan/npc/shidaizi.c line 47: Undefined function temp_skill
+d/huashan/npc/laodenuo.c line 48: Undefined function prepare_skill
+d/huashan/npc/laodenuo.c line 48: Undefined function prepare_skill
+d/huashan/npc/gao.c line 48: Undefined function prepare_skill
+d/huashan/npc/lingshan.c line 49: Undefined function prepare_skill
+d/huashan/npc/liangfa.c line 48: Undefined function prepare_skill
+daemon/skill/huashan-jianfa.c line 28: Warning: Extra ';'. Ignored.
+u/wind/refereew.c line 463: Warning: Return type doesn't match prototype ( string vs int )
+u/wind/refereew.c line 472: Warning: Return type doesn't match prototype ( string vs int )
+d/huashan/npc/refereew.c line 416: Warning: Return type doesn't match prototype ( string vs int )
+d/huashan/npc/refereew.c line 425: Warning: Return type doesn't match prototype ( string vs int )
+d/huashan/npc/dayou.c line 48: parse error
+d/huashan/npc/dayou.c line 48: parse error
+daemon/class/huashan/ning.c line 56: Undefined function prepare_skill
+daemon/skill/huashan-jianfa.c line 28: Warning: Extra ';'. Ignored.
+daemon/class/huashan/linghu.c line 60: Undefined function prepare_skill
+daemon/skill/dugu-jiujian.c line 190: Warning: Extra ';'. Ignored.
+daemon/skill/fanliangyi-dao.c line 81: Undefined function NewRandom
+daemon/skill/dugu-jiujian.c line 190: Warning: Extra ';'. Ignored.
+daemon/skill/fanliangyi-dao.c line 81: Undefined function NewRandom
+daemon/skill/dugu-jiujian.c line 190: Warning: Extra ';'. Ignored.
+daemon/skill/hunyuan-zhang.c line 127: Undefined function NewRandom
+daemon/skill/poyu-quan.c line 93: Undefined function NewRandom
+d/npc/duanyu.c line 61: Undefined function prepare_skill
+d/npc/duanyu.c line 61: Undefined function prepare_skill
+d/city2/npc/shisong.c line 55: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+daemon/class/gaibang/kongkong.c line 5: parse error
+d/city2/npc/mao18.c line 123: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/library.c line 45: Undefined variable 'MONEY_D'
+d/city/library.c line 45: Undefined variable 'MONEY_D'
+d/city/library.c line 45: Undefined variable 'MONEY_D'
+d/city/library.c line 45: Undefined variable 'MONEY_D'
+d/city/library.c line 45: Undefined variable 'MONEY_D'
+d/city/library.c line 45: Undefined variable 'MONEY_D'
+d/city/library.c line 46: parse error
+d/city/library.c line 46: parse error
+d/city/npc/qian.c line 81: Undefined variable 'MONEY_D'
+d/city/npc/qian.c line 255: Undefined variable 'MONEY_D'
+d/city/npc/qian.c line 81: Undefined variable 'MONEY_D'
+d/city/npc/qian.c line 255: Undefined variable 'MONEY_D'
+d/city/npc/qian.c line 81: Undefined variable 'MONEY_D'
+d/city/npc/qian.c line 257: Undefined variable 'MONEY_D'
+d/city/npc/qian.c line 81: Undefined variable 'MONEY_D'
+d/city/npc/qian.c line 83: parse error
+d/city/npc/qian.c line 96: Illegal LHS
+d/city/npc/qian.c line 96: parse error
+d/city/npc/qian.c line 103: Undefined variable 'from'
+d/city/npc/qian.c line 103: Undefined variable 'me'
+d/city/npc/qian.c line 103: Illegal LHS
+d/city/npc/qian.c line 83: parse error
+d/city/npc/qian.c line 104: Undefined variable 'to'
+d/city/npc/qian.c line 104: Undefined variable 'me'
+d/city/npc/qian.c line 104: Illegal LHS
+d/city/npc/qian.c line 104: parse error
+d/city/npc/qian.c line 123: Undefined variable 'from_ob'
+d/city/npc/qian.c line 83: parse error
+d/city/npc/qian.c line 104: Undefined variable 'to'
+d/city/npc/qian.c line 104: Undefined variable 'me'
+d/city/npc/qian.c line 104: Illegal LHS
+d/city/npc/qian.c line 104: parse error
+d/city/npc/qian.c line 123: Undefined variable 'from_ob'
+d/npc/xiaofeng.c line 87: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 122: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 87: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 122: Warning: Return type doesn't match prototype ( void vs int )
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/npc/xiaofeng.c line 87: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 122: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/duanyanqing.c line 91: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/duanyanqing.c line 126: Warning: Return type doesn't match prototype ( void vs int )
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/xingxiu/npc/wujiang.c line 40: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+daemon/class/lingjiu/xuzhu.c line 57: Undefined function prepare_skill
+d/shaolin/npc/mu-ren.c line 154: Warning: clean_up() inherited from both std/char/npc.c and feature/clean_up.c; using the definition in feature/clean_up.c.
+daemon/class/lingjiu/xuzhu.c line 57: Undefined function prepare_skill
+daemon/class/lingjiu/xuzhu.c line 57: Undefined function prepare_skill
+daemon/class/lingjiu/xuzhu.c line 57: Undefined function prepare_skill
+daemon/class/lingjiu/xuzhu.c line 57: Undefined function prepare_skill
+daemon/class/lingjiu/xuzhu.c line 57: Undefined function prepare_skill
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 87: Warning: Return type doesn't match prototype ( void vs int )
+d/npc/xiaofeng.c line 122: Warning: Return type doesn't match prototype ( void vs int )
+d/city2/npc/mao18.c line 123: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/heimuya/npc/jiabu.c line 4: parse error
+d/city2/npc/mao18.c line 123: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/tang.c line 74: Undefined variable 'MONEY_D'
+d/city2/npc/shisong.c line 55: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+inherit/room/nproom.c line 3: Cannot #include pig.h
+inherit/room/pigroom.c line 4: Cannot #include pig.h
+inherit/room/pigroom.c line 77: Undefined variable 'PIG_INITTING'
+inherit/room/pigroom.c line 88: Undefined variable 'PIG_DEALING'
+inherit/room/pigroom.c line 95: Undefined variable 'PIG_BIDDING'
+inherit/room/pigroom.c line 107: Undefined variable 'PIG_PLAYING'
+inherit/room/pigroom.c line 125: Undefined variable 'PIG_D'
+inherit/room/nproom.c line 3: Cannot #include pig.h
+inherit/room/pigroom.c line 4: Cannot #include pig.h
+inherit/room/pigroom.c line 77: Undefined variable 'PIG_INITTING'
+inherit/room/pigroom.c line 88: Undefined variable 'PIG_DEALING'
+inherit/room/pigroom.c line 95: Undefined variable 'PIG_BIDDING'
+inherit/room/pigroom.c line 107: Undefined variable 'PIG_PLAYING'
+inherit/room/pigroom.c line 125: Undefined variable 'PIG_D'
+d/city2/npc/mao18.c line 123: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/mao18.c line 123: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city2/npc/shisong.c line 55: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: decrease_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: research_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: improve_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_eff_lvl() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: skill_death_penalty() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_map() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skill_mapped() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: map_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: delete_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: set_skill() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_learned() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+d/city/npc/wujiang.c line 47: Warning: query_skills() inherited from both std/char/npc.c and feature/skill.c; using the definition in feature/skill.c.
+daemon/skill/yunlong-bian.c line 99: Undefined function NewRandom
+daemon/skill/yunlong-bian.c line 99: Undefined function NewRandom
+daemon/skill/yunlong-bian.c line 99: Undefined function NewRandom
+daemon/skill/yunlong-bian.c line 99: Undefined function NewRandom
+daemon/skill/yunlong-bian.c line 99: Undefined function NewRandom
+d/shenlong/npc/zhang3.c line 5: parse error
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+d/fy/npc/cafen.c line 20: parse error
+d/fy/npc/cafen.c line 31: Illegal LHS
+d/fy/npc/cafen.c line 31: parse error
+d/fy/npc/cafen.c line 20: parse error
+d/fy/npc/cafen.c line 31: Illegal LHS
+d/fy/npc/cafen.c line 31: parse error
+d/fy/npc/cafen.c line 20: parse error
+d/fy/npc/cafen.c line 31: Illegal LHS
+d/fy/npc/cafen.c line 31: parse error
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 37: Warning: Return type doesn't match prototype ( void vs int )
+obj/npc/champion.c line 58: Warning: Return type doesn't match prototype ( void vs int )
+doc/help.h line 3: parse error
+doc/help.h line 3: parse error
+daemon/skill/zui-gun.c line 105: Undefined function NewRandom
+daemon/skill/zui-gun.c line 105: Bad type of index: "unknown "
+daemon/skill/zui-gun.c line 105: Undefined function NewRandom
+daemon/skill/zui-gun.c line 105: Bad type of index: "unknown "
+daemon/skill/huoyan-dao.c line 102: Undefined function NewRandom
+daemon/skill/huoyan-dao.c line 102: Bad type of index: "unknown "
+daemon/skill/tianyu-qijian.c line 97: Undefined function NewRandom
+daemon/skill/tianyu-qijian.c line 97: Bad type of index: "unknown "
+adm/daemons/network/ms.c line 16: Cannot #include config.h
+adm/daemons/network/ms.c line 17: Cannot #include mailer.h
+adm/daemons/network/ms.c line 18: Cannot #include daemons.h
+adm/daemons/network/ms.c line 20: Cannot #include uid.h
+adm/daemons/network/ms.c line 46: Undefined variable 'MAILDIR'
+
+adm/daemons/network/ms.c line 48: Undefined variable 'THIS_MUD'
+
+adm/daemons/network/ms.c line 16: Cannot #include config.h
+adm/daemons/network/ms.c line 17: Cannot #include mailer.h
+adm/daemons/network/ms.c line 18: Cannot #include daemons.h
+adm/daemons/network/ms.c line 20: Cannot #include uid.h
+adm/daemons/network/ms.c line 46: Undefined variable 'MAILDIR'
+
+adm/daemons/network/ms.c line 48: Undefined variable 'THIS_MUD'
+
+adm/daemons/network/pingd.c line 12: Cannot #include uid.h
+adm/daemons/network/pingd.c line 14: parse error
+adm/daemons/network/userid.c line 13: Cannot #include priv.h
+adm/daemons/network/userid.c line 14: Cannot #include config.h
+adm/daemons/network/userid.c line 18: parse error
+daemon/skill/nianhua-zhi.c line 117: Undefined function NewRandom
+daemon/skill/nianhua-zhi.c line 117: Bad type of index: "unknown "
+daemon/skill/nianhua-zhi.c line 117: Undefined function NewRandom
+daemon/skill/nianhua-zhi.c line 117: Bad type of index: "unknown "
+daemon/skill/yizhi-chan.c line 73: Undefined function NewRandom
+daemon/skill/yizhi-chan.c line 73: Bad type of index: "unknown "
+daemon/skill/liumai-shenjian.c line 112: Undefined function NewRandom
+daemon/skill/liumai-shenjian.c line 112: Bad type of index: "unknown "
+adm/daemons/emoted.c line 81: Undefined variable 'es_flag'
+
+adm/daemons/channeld.c line 26: parse error
+adm/daemons/channeld.c line 79: parse error
+adm/daemons/channeld.c line 84: Illegal LHS
+adm/daemons/channeld.c line 84: parse error
+adm/daemons/channeld.c line 85: Illegal LHS
+adm/daemons/channeld.c line 115: A reserved type name cannot be used as a function name.
+
+adm/daemons/channeld.c line 115: parse error
+adm/daemons/network/services/rwho_q.c line 74: parse error
+u/wind/liling2.c line 88: Undefined function prepare_skill
+d/qianfo/xiangji.c line 56: Non-void functions must return a value.
+d/qianfo/xiangji.c line 56: Non-void functions must return a value.
+d/qianfo/xiangji.c line 56: Non-void functions must return a value.
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+feature/equip.c line 40: Undefined variable 'i'
+feature/equip.c line 111: Undefined variable 'i'
+feature/equip.c line 152: Undefined variable 'i'
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+feature/equip.c line 40: Undefined variable 'i'
+feature/equip.c line 106: Illegal to redeclare local name 'i'
+feature/equip.c line 111: Undefined variable 'i'
+feature/equip.c line 146: Undefined variable 'i'
+feature/equip.c line 146: Undefined variable 'i'
+feature/equip.c line 148: Undefined variable 'i'
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+feature/equip.c line 106: Illegal to redeclare local name 'i'
+feature/equip.c line 152: Undefined variable 'i'
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+feature/equip.c line 30: Illegal to redeclare local name 'i'
+feature/equip.c line 106: Illegal to redeclare local name 'i'
+feature/equip.c line 111: Undefined variable 'i'
+feature/equip.c line 146: Undefined variable 'i'
+feature/equip.c line 146: Undefined variable 'i'
+feature/equip.c line 148: Undefined variable 'i'
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+adm/daemons/network/services/mudlist_a.c line 42: parse error
+adm/daemons/network/services/mudlist_a.c line 47: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 50: parse error
+adm/daemons/network/services/mudlist_a.c line 50: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 53: parse error
+adm/daemons/network/services/mudlist_a.c line 53: Illegal LHS
+adm/daemons/network/services/mudlist_a.c line 54: Warning: Value of conditional expression is unused
+cmds/wiz/mudlist.c line 8: parse error
+u/c/attack.c line 66: parse error
+u/c/attack.c line 68: Illegal LHS
+u/c/attack.c line 70: use this out of class function.
+u/c/attack.c line 70: Illegal lvalue
+u/c/attack.c line 70: Bad assignment ( unknown vs object ).
+u/c/attack.c line 71: use this out of class function.
+u/c/attack.c line 66: parse error
+u/c/attack.c line 68: Illegal LHS
+u/c/attack.c line 70: use this out of class function.
+u/c/attack.c line 70: Illegal lvalue
+u/c/attack.c line 70: Bad assignment ( unknown vs object ).
+u/c/attack.c line 71: use this out of class function.
+u/c/attack.c line 66: parse error
+u/c/attack.c line 68: Illegal LHS
+u/c/attack.c line 70: use this out of class function.
+u/c/attack.c line 70: Illegal lvalue
+u/c/attack.c line 70: Bad assignment ( unknown vs object ).
+u/c/attack.c line 71: use this out of class function.
+u/c/attack.c line 66: parse error
+u/c/attack.c line 68: Illegal LHS
+u/c/attack.c line 70: use this out of class function.
+u/c/attack.c line 70: Illegal lvalue
+u/c/attack.c line 70: Bad assignment ( unknown vs object ).
+u/c/attack.c line 71: use this out of class function.
+u/c/attack.c line 66: parse error
+u/c/attack.c line 68: Illegal LHS
+u/c/attack.c line 70: use this out of class function.
+u/c/attack.c line 70: Illegal lvalue
+u/c/attack.c line 70: Bad assignment ( unknown vs object ).
+u/c/attack.c line 71: use this out of class function.
